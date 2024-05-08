@@ -7,7 +7,7 @@ I would like to point out that I don't own any of the art used in these wallpape
 
 I have been informed that the white "cut out" area may not line up correctly with the MiSTer menu on some displays, as the menu size changes depending on resolution. If you experience this issue and the menu does not line up correctly, I have created another folder specifically for wallpapers that do not have the menu area cut out. Unfortunately I do not have as many wallpapers for this, as many of the original .psd files were lost when my drive failed. I was able to recover some of them but not the full amount. Moving forward I will upload two versions of each wallpaper I make - one with the menu cut out (how I prefer to use them on my own set up) and one without the menu cut out (for those who need it). I would still recommend trying to use the version with the menu cut out first, as there are significantly more wallpapers available in that category
 
-[How to Change Your MiSTer Wallpaper](https://github.com/MiSTer-devel/Main_MiSTer/wiki/Customizing#to-add-a-background-image)
+[How to Change Your MiSTer Wallpaper](https://github.com/MiSTer-devel/Wiki_MiSTer/wiki/Customizing#to-add-a-background-image)
 
 Examples of some wallpapers:
 ![Wallpaper in use 2](https://github.com/brotherbodhi/MiSTer-FPGA-Wallpapers/blob/main/Example%20Previews/2nd%20MiSTer%20Wallpaper%20example.png?raw=true)
